@@ -1,0 +1,107 @@
+2025-05-08 12:15:24,382 - INFO - Connecting to ClickHouse...
+2025-05-08 12:15:24,385 - INFO - Running query on table 'chat_events' from 2025-04-08 00:00:00 to 2025-04-09 00:00:00
+2025-05-08 12:15:24,497 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,498 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,498 - INFO - Running query on table 'chat_events' from 2025-04-09 00:00:00 to 2025-04-10 00:00:00
+2025-05-08 12:15:24,597 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,598 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,599 - INFO - Running query on table 'chat_events' from 2025-04-10 00:00:00 to 2025-04-11 00:00:00
+2025-05-08 12:15:24,698 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,699 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,699 - INFO - Running query on table 'chat_events' from 2025-04-11 00:00:00 to 2025-04-12 00:00:00
+2025-05-08 12:15:24,796 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,797 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,797 - INFO - Running query on table 'chat_events' from 2025-04-12 00:00:00 to 2025-04-13 00:00:00
+2025-05-08 12:15:24,902 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,903 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:24,904 - INFO - Running query on table 'chat_events' from 2025-04-13 00:00:00 to 2025-04-14 00:00:00
+2025-05-08 12:15:24,999 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,000 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,000 - INFO - Running query on table 'chat_events' from 2025-04-14 00:00:00 to 2025-04-15 00:00:00
+2025-05-08 12:15:25,095 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,096 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,096 - INFO - Running query on table 'chat_events' from 2025-04-15 00:00:00 to 2025-04-16 00:00:00
+2025-05-08 12:15:25,190 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,190 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,191 - INFO - Running query on table 'chat_events' from 2025-04-16 00:00:00 to 2025-04-17 00:00:00
+2025-05-08 12:15:25,287 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,287 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,288 - INFO - Running query on table 'chat_events' from 2025-04-17 00:00:00 to 2025-04-18 00:00:00
+2025-05-08 12:15:25,389 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,389 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,390 - INFO - Running query on table 'chat_events' from 2025-04-18 00:00:00 to 2025-04-19 00:00:00
+2025-05-08 12:15:25,486 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,486 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,487 - INFO - Running query on table 'chat_events' from 2025-04-19 00:00:00 to 2025-04-20 00:00:00
+2025-05-08 12:15:25,610 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,611 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,612 - INFO - Running query on table 'chat_events' from 2025-04-20 00:00:00 to 2025-04-21 00:00:00
+2025-05-08 12:15:25,711 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,712 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,712 - INFO - Running query on table 'chat_events' from 2025-04-21 00:00:00 to 2025-04-22 00:00:00
+2025-05-08 12:15:25,832 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,833 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,833 - INFO - Running query on table 'chat_events' from 2025-04-22 00:00:00 to 2025-04-23 00:00:00
+2025-05-08 12:15:25,938 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,938 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:25,939 - INFO - Running query on table 'chat_events' from 2025-04-23 00:00:00 to 2025-04-24 00:00:00
+2025-05-08 12:15:26,053 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,054 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,054 - INFO - Running query on table 'chat_events' from 2025-04-24 00:00:00 to 2025-04-25 00:00:00
+2025-05-08 12:15:26,149 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,150 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,150 - INFO - Running query on table 'chat_events' from 2025-04-25 00:00:00 to 2025-04-26 00:00:00
+2025-05-08 12:15:26,272 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,273 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,273 - INFO - Running query on table 'chat_events' from 2025-04-26 00:00:00 to 2025-04-27 00:00:00
+2025-05-08 12:15:26,381 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,382 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,382 - INFO - Running query on table 'chat_events' from 2025-04-27 00:00:00 to 2025-04-28 00:00:00
+2025-05-08 12:15:26,495 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,496 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,497 - INFO - Running query on table 'chat_events' from 2025-04-28 00:00:00 to 2025-04-29 00:00:00
+2025-05-08 12:15:26,595 - ERROR - Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,595 - ERROR - Query failed: Query failed: Code: 516. DB::Exception: XXX: Authentication failed: password is incorrect, or there is no user with such name. (AUTHENTICATION_FAILED) (version 23.11.1.2711 (official build))
+
+2025-05-08 12:15:26,596 - INFO - Running query on table 'chat_events' from 2025-04-29 00:00:00 to 2025-04-30 00:00:00
