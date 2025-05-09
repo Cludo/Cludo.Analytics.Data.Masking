@@ -52,12 +52,6 @@ TABLES_TO_MASK = {
             "browser_language": "'***'",
         }
     },
-    "clicks_per_month": {
-        "columns": {
-            "query": "'***'",
-            "url": "'***'"
-        }
-    },
     "chat_exchanges": {
         "columns": {
             "ip_address": "'***'",

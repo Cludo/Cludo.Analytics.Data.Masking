@@ -42,15 +42,13 @@ The script uses a `.env` file to configure its parameters. Below are the require
 - `CLICKHOUSE_PORT`: The ClickHouse server port (integer).
 - `CLICKHOUSE_DATABASE`: The ClickHouse database name.
 - `CLICKHOUSE_TIMEOUT`: The timeout for ClickHouse operations (integer, in seconds).
-
-### Authentication
 - `CLICKHOUSE_USER`: The username for ClickHouse authentication.
 - `CLICKHOUSE_PASSWORD`: The password for ClickHouse authentication.
 
 Example `.env` file:
 ```properties
-CUSTOMER_ID=3221
-ENGINE_ID=13601
+CUSTOMER_ID=xxx
+ENGINE_ID=xxx
 START_DATETIME=2025-04-08 00:00:00
 END_DATETIME=2025-05-08 00:00:00
 INTERVAL_MINUTES=1440
@@ -63,6 +61,30 @@ CLICKHOUSE_TIMEOUT=60
 CLICKHOUSE_USER=xxx
 CLICKHOUSE_PASSWORD=xxx
 ```
+
+---
+
+## Tables and Columns Affected by Masking
+
+The script applies masking to the following tables and columns:
+
+1. **`chat_events`**
+   - Columns: `ip_address`, `session_id`, `conversation_id`, `exchange_id`, `text`, `text_raw`, `device_id`, `device_type`, `feedback_reason`, `geo_*` (continent, country, region, city), `geo_latitude`, `geo_longitude`, `browser_language`.
+
+2. **`chat_exchanges`**
+   - Columns: `ip_address`, `device_type`, `geo_*` (continent, country, region, city), `geo_latitude`, `geo_longitude`, `question`, `answer`, `feedback_reason`, `feedback_comment`, `error_message`.
+
+3. **`chat_conversations`**
+   - Columns: `ip_address`, `device_type`, `geo_*` (continent, country, region, city), `geo_latitude`, `geo_longitude`, `original_question`, `questions`, `answers`, `feedback_ratings`, `feedback_reasons`, `feedback_comments`.
+
+4. **`search_summary_events`**
+   - Columns: `text`, `text_raw`, `feedback_reason`, `ip_address`, `session_id`, `device_id`, `user_agent`, `geo_city_name`, `geo_latitude`, `geo_longitude`.
+
+5. **`search_summaries`**
+   - Columns: `ip_address`, `geo_city_name`, `geo_latitude`, `geo_longitude`, `query`, `summary`, `feedback_reason`, `feedback_comment`, `error_message`.
+
+6. **`events`**
+   - Columns: `ip_address`, `device_id`, `session_id`, `geo_city_name`, `geo_latitude`, `geo_longitude`, `user_agent`, `query`, `referrer_url`, `referrer_title`, `traits`.
 
 ---
 
